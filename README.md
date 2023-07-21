@@ -39,13 +39,12 @@ Here are some ideas to get you started:
 
 
 <br />
-
+<div />
 
 
 ## Spotify Playing 🎧
 ![See what sid is playing](https://spotify-recently-played-readme.vercel.app/api?user=31xqachyolzspjxljxltzcbfo62i)
 
 
-[![Sidhanth's Activity](https://activity-graph.herokuapp.com/graph?username=sidhanthsur&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
