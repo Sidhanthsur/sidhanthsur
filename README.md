@@ -1,3 +1,4 @@
+
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28" />
 
 <!--
@@ -40,11 +41,11 @@ Here are some ideas to get you started:
 
 <br />
 <div />
+<br />
+<br />
+<br />
+<br />
 
 
 ## Spotify Playing 🎧
 ## ![See what sid is playing](https://spotify-recently-played-readme.vercel.app/api?user=31xqachyolzspjxljxltzcbfo62i)
-
-
-
-
