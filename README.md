@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 
 ## Spotify Playing 🎧
-![See what sid is playing](https://spotify-recently-played-readme.vercel.app/api?user=31xqachyolzspjxljxltzcbfo62i)
+## ![See what sid is playing](https://spotify-recently-played-readme.vercel.app/api?user=31xqachyolzspjxljxltzcbfo62i)
 
 
 
